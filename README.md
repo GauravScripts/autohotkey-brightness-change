@@ -1,0 +1,1 @@
+# autohotkey-brightness-change
